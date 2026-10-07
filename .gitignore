@@ -1,5 +1,6 @@
 *.pyc
 *.json
+!devcontainer.json
 *.csv
 *.lock
 .DS_Store
